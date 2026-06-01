@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🌿 ReadmeForge
-
 ### ✨ GitHub README Generator
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=700&color=16A34A&center=true&vCenter=true&width=1000&lines=Build+Stunning+GitHub+READMEs+in+Minutes;Animated+Headers+%7C+Badges+%7C+Live+Preview;Green+SaaS+Developer+Tool;MERN+Stack+%7C+Markdown+Generator;Portfolio-Ready+README.md+Files" alt="Typing SVG" />
