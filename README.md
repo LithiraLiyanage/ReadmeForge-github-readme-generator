@@ -478,12 +478,6 @@ GET /api/admin/stats
 
 ---
 
-## 🎤 Interview Explanation
-
-> ReadmeForge is a MERN-based developer tool that generates professional GitHub README files. It includes JWT authentication, a green-themed React dashboard, a step-based README generator wizard, markdown preview, badge generation, saved README history, and backend validation. The project demonstrates full-stack architecture, reusable UI components, secure APIs, and practical developer tooling.
-
----
-
 ## 👨‍💻 Author
 
 <div align="center">
