@@ -1,0 +1,1 @@
+const FormInput=({label,error,...props})=><label className="block"><span className="mb-1 block text-sm font-bold text-slate-700">{label}</span><input className="input" {...props}/>{error&&<p className="mt-1 text-sm font-semibold text-red-600">{error}</p>}</label>;export default FormInput;

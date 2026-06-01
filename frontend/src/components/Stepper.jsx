@@ -1,0 +1,1 @@
+const Stepper=({steps,current})=><div className="mb-6 grid gap-2 md:grid-cols-4">{steps.map((s,i)=><div key={s} className={`rounded-xl px-3 py-2 text-xs font-bold ${i<=current?"bg-green-100 text-primary":"bg-slate-100 text-slate-500"}`}>{i+1}. {s}</div>)}</div>;export default Stepper;
