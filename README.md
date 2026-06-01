@@ -1,7 +1,7 @@
-````markdown
 <div align="center">
 
-# 🌿 ReadmeForge  
+# 🌿 ReadmeForge
+
 ### ✨ GitHub README Generator
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=700&color=16A34A&center=true&vCenter=true&width=1000&lines=Build+Stunning+GitHub+READMEs+in+Minutes;Animated+Headers+%7C+Badges+%7C+Live+Preview;Green+SaaS+Developer+Tool;MERN+Stack+%7C+Markdown+Generator;Portfolio-Ready+README.md+Files" alt="Typing SVG" />
@@ -12,12 +12,12 @@
 
 <br/>
 
-![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-Live_Preview-16A34A?style=for-the-badge&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-Live_Preview-16A34A?style=for-the-badge\&logo=markdown\&logoColor=white)
 ![Developer Tool](https://img.shields.io/badge/Developer-Tool-22C55E?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Ready-166534?style=for-the-badge)
 
@@ -64,14 +64,14 @@ Users can enter project information, select tech stacks, add features, commands,
 
 ## 🎯 Project Purpose
 
-| Target Area | What This Project Demonstrates |
-|---|---|
-| 💻 Full Stack Development | React, Node.js, Express, MongoDB, REST APIs |
-| 🎨 Frontend Engineering | Green SaaS UI, responsive layouts, reusable components |
-| ⚙️ Backend Engineering | JWT auth, validation, protected APIs, clean architecture |
-| 🧠 Developer Tooling | Markdown generation, badge generation, README templates |
-| 📊 Dashboard UI | Analytics cards, saved history, admin view |
-| 🧑‍💼 Portfolio Value | Practical tool that helps create better GitHub project documentation |
+| Target Area               | What This Project Demonstrates                                       |
+| ------------------------- | -------------------------------------------------------------------- |
+| 💻 Full Stack Development | React, Node.js, Express, MongoDB, REST APIs                          |
+| 🎨 Frontend Engineering   | Green SaaS UI, responsive layouts, reusable components               |
+| ⚙️ Backend Engineering    | JWT auth, validation, protected APIs, clean architecture             |
+| 🧠 Developer Tooling      | Markdown generation, badge generation, README templates              |
+| 📊 Dashboard UI           | Analytics cards, saved history, admin view                           |
+| 🧑‍💼 Portfolio Value     | Practical tool that helps create better GitHub project documentation |
 
 ---
 
@@ -79,76 +79,70 @@ Users can enter project information, select tech stacks, add features, commands,
 
 ### 🧙 README Generator
 
-- 📝 Step-based README creation wizard
-- 🌿 Beautiful green-themed interface
-- 🏷️ Badge generator for popular technologies
-- ✨ Animated typing SVG header generation
-- 🌊 Capsule render wave animation support
-- 📸 Project screenshot preview section
-- 🧰 Tech stack table generator
-- 📁 Folder structure code block generator
-- ⚙️ Environment variable section generator
-- 🔌 API endpoint section generator
-- 📌 CV bullet generator
-- 🎤 Interview explanation generator
-
----
+* 📝 Step-based README creation wizard
+* 🌿 Beautiful green-themed interface
+* 🏷️ Badge generator for popular technologies
+* ✨ Animated typing SVG header generation
+* 🌊 Capsule render wave animation support
+* 📸 Project screenshot preview section
+* 🧰 Tech stack table generator
+* 📁 Folder structure code block generator
+* ⚙️ Environment variable section generator
+* 🔌 API endpoint section generator
+* 📌 CV bullet generator
+* 🎤 Interview explanation generator
 
 ### 👀 Markdown Preview & Export
 
-- 👀 Live markdown preview
-- 📋 Copy markdown button
-- ⬇️ Download `README.md`
-- 🔄 Regenerate README instantly
-- 🧪 Preview before saving
-- ✅ User-friendly success/error messages
-
----
+* 👀 Live markdown preview
+* 📋 Copy markdown button
+* ⬇️ Download `README.md`
+* 🔄 Regenerate README instantly
+* 🧪 Preview before saving
+* ✅ User-friendly success/error messages
 
 ### 💾 Saved README History
 
-- 💾 Save generated README files
-- ⭐ Mark favorite READMEs
-- 🔁 Duplicate existing README
-- ✏️ Edit saved README data
-- 🗑️ Delete saved README
-- 🔎 Search saved READMEs
-- 🗂️ Filter by category/style
-- 📊 View dashboard statistics
-
----
+* 💾 Save generated README files
+* ⭐ Mark favorite READMEs
+* 🔁 Duplicate existing README
+* ✏️ Edit saved README data
+* 🗑️ Delete saved README
+* 🔎 Search saved READMEs
+* 🗂️ Filter by category/style
+* 📊 View dashboard statistics
 
 ### 🔐 Authentication & Admin
 
-- 🔐 JWT authentication
-- 🔒 bcrypt password hashing
-- 👤 User dashboard
-- 🛡️ Admin dashboard
-- 👑 Default admin seed account
-- 🚪 Logout support
-- 🧾 Protected routes
-- ✅ Ownership validation for saved READMEs
+* 🔐 JWT authentication
+* 🔒 bcrypt password hashing
+* 👤 User dashboard
+* 🛡️ Admin dashboard
+* 👑 Default admin seed account
+* 🚪 Logout support
+* 🧾 Protected routes
+* ✅ Ownership validation for saved READMEs
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer | Technology |
-|---|---|
-| 🎨 Frontend | React, Vite |
-| 💅 Styling | Tailwind CSS |
-| 🧭 Routing | React Router |
-| 🔗 API Client | Axios |
-| 📝 Markdown Preview | React Markdown |
-| 📊 Charts | Recharts |
-| 🎯 Icons | Lucide React |
-| 🔔 Toast Messages | React Toastify |
-| ⚙️ Backend | Node.js, Express.js |
-| 🗄️ Database | MongoDB, Mongoose |
-| 🔐 Authentication | JWT, bcryptjs |
-| ✅ Validation | express-validator |
-| 🛡️ Security | Helmet, CORS, express-rate-limit |
-| 🐳 Database Runtime | Docker Compose |
+| Layer               | Technology                       |
+| ------------------- | -------------------------------- |
+| 🎨 Frontend         | React, Vite                      |
+| 💅 Styling          | Tailwind CSS                     |
+| 🧭 Routing          | React Router                     |
+| 🔗 API Client       | Axios                            |
+| 📝 Markdown Preview | React Markdown                   |
+| 📊 Charts           | Recharts                         |
+| 🎯 Icons            | Lucide React                     |
+| 🔔 Toast Messages   | React Toastify                   |
+| ⚙️ Backend          | Node.js, Express.js              |
+| 🗄️ Database        | MongoDB, Mongoose                |
+| 🔐 Authentication   | JWT, bcryptjs                    |
+| ✅ Validation        | express-validator                |
+| 🛡️ Security        | Helmet, CORS, express-rate-limit |
+| 🐳 Database Runtime | Docker Compose                   |
 
 ---
 
@@ -173,7 +167,7 @@ Users can enter project information, select tech stacks, add features, commands,
 │           MongoDB             │
 │ Users / READMEs / Templates   │
 └──────────────────────────────┘
-````
+```
 
 ---
 
@@ -292,8 +286,6 @@ VITE_API_URL=http://localhost:5000/api
 docker compose up -d mongo
 ```
 
----
-
 ### 2️⃣ Start Backend
 
 ```bash
@@ -308,8 +300,6 @@ Backend URL:
 ```text
 http://localhost:5000
 ```
-
----
 
 ### 3️⃣ Start Frontend
 
@@ -522,5 +512,4 @@ Full Stack Developer | MERN Stack Developer | AI Engineer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=120&section=footer" width="100%" />
 
 </div>
-```
 
