@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+	--primary:#16A34A;
+	--accent:#22C55E;
+	--dark-surface:#052E16;
+	--dark-card:#064E3B;
+}
+
+body{font-family:Inter,system-ui,Arial,sans-serif;color:#0F172A;background:linear-gradient(180deg,#ffffff 0%,#f8fafc 100%)}
+
+.card{@apply rounded-2xl border border-green-100 bg-white shadow-sm}
+.card-green{@apply rounded-2xl border border-green-200 bg-white shadow-green}
+.input{@apply w-full rounded-xl border border-green-200 bg-white px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:border-primary focus:outline-none focus:ring-2 focus:ring-green-100}
+.btn-primary{@apply rounded-xl bg-gradient-to-r from-primary to-accent px-5 py-3 font-bold text-white shadow-green transition hover:scale-[1.01] disabled:opacity-60}
+.btn-secondary{@apply rounded-xl border border-green-200 bg-white px-5 py-3 font-bold text-slate-700 transition hover:bg-green-50}
+
+/* Decorative hero blobs */
+.hero-blob-1{position:absolute;left:-160px;top:-160px;width:560px;height:560px;border-radius:50%;background:radial-gradient(circle at 20% 20%,rgba(34,197,94,0.18),rgba(34,197,94,0.02));filter:blur(80px);z-index:0}
+.hero-blob-2{position:absolute;right:-160px;bottom:-160px;width:520px;height:520px;border-radius:50%;background:radial-gradient(circle at 80% 80%,rgba(34,197,94,0.12),rgba(59,130,246,0.06));filter:blur(80px);z-index:0}
+
+.btn-primary svg{opacity:0.9}
+.card{background-clip:padding-box}
