@@ -1,0 +1,1 @@
+import{toast}from"react-toastify";import{copyText}from"../utils/markdownHelpers";const CopyButton=({text})=><button type="button" onClick={async()=>{await copyText(text||"");toast.success("Markdown copied!")}} className="btn-secondary">📋 Copy Markdown</button>;export default CopyButton;

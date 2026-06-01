@@ -1,0 +1,1 @@
+import{downloadMarkdown}from"../utils/markdownHelpers";const DownloadButton=({markdown,filename})=><button type="button" onClick={()=>downloadMarkdown(markdown||"",filename||"README.md")} className="btn-primary">⬇️ Download README.md</button>;export default DownloadButton;
