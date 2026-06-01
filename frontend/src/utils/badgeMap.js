@@ -1,0 +1,1 @@
+export const techOptions=["React","Vite","Node.js","Express","MongoDB","Mongoose","Tailwind CSS","JavaScript","TypeScript","Python","FastAPI","Spring Boot","Java","PostgreSQL","MySQL","Docker","JWT","Socket.io","AI","OpenAI","Gemini","Firebase","Vercel","Netlify","GitHub","Git","Redux","Next.js","HTML","CSS"];

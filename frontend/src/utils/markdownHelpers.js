@@ -1,0 +1,1 @@
+export const downloadMarkdown=(markdown,filename="README.md")=>{const blob=new Blob([markdown],{type:"text/markdown;charset=utf-8"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download=filename;a.click();URL.revokeObjectURL(url)};export const copyText=async text=>navigator.clipboard.writeText(text);

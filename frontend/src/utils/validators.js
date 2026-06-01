@@ -1,0 +1,1 @@
+export const isUrl=v=>!v||/^https?:\/\/.+/.test(v);export const isImagePath=v=>!v||/\.(png|jpg|jpeg|gif|webp)$/i.test(v);export const isKebabCase=v=>/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(v);export const passwordStrong=v=>/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$/.test(v);
