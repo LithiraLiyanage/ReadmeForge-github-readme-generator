@@ -1,0 +1,1 @@
+const r=require("express").Router(), c=require("../controllers/adminController"), {protect,authorize}=require("../middleware/authMiddleware"); r.use(protect,authorize("admin")); r.get("/users",c.users); r.get("/readmes",c.readmes); r.get("/stats",c.stats); module.exports=r;

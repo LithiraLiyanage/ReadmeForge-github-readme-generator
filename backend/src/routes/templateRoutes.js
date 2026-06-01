@@ -1,0 +1,1 @@
+const r=require("express").Router(), c=require("../controllers/templateController"), {protect,authorize}=require("../middleware/authMiddleware"); r.get("/",c.list); r.get("/:id",c.getOne); r.post("/",protect,authorize("admin"),c.create); r.put("/:id",protect,authorize("admin"),c.update); r.delete("/:id",protect,authorize("admin"),c.remove); module.exports=r;
