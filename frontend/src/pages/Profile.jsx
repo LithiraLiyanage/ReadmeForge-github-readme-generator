@@ -1,0 +1,1 @@
+import{useAuth}from"../context/AuthContext";const Profile=()=>{const{user}=useAuth();return <div className="card-green p-6"><h1 className="text-3xl font-black">Profile</h1><p className="mt-4"><b>Name:</b> {user?.name}</p><p><b>Email:</b> {user?.email}</p><p><b>Role:</b> {user?.role}</p></div>};export default Profile;
